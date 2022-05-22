@@ -1,0 +1,37 @@
+@media screen and (max-width:620px) {
+    .link-header{
+        display: none;
+    }
+
+    h1{
+        font-size: 30px;
+        line-height: 30px;
+        text-align: center;
+        letter-spacing: 0.596154px;
+        font-weight: 700;
+    }
+
+    p{
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 33px;
+        text-align: center;
+        letter-spacing: 0.5px;
+    }
+
+    .link-section{
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 27px;
+        letter-spacing: 1px;
+    }
+
+    .img-positive{
+        position: absolute;
+        width: 312px;
+        height: 288px;
+        display: block;
+    }
+
+ 
+}
